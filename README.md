@@ -2,6 +2,6 @@
 The src folder contains code for the LeastCommonMultiple program which finds the lcm using input from user which must be two positive integers. This folder also contains code for the simple GUI I implemented with the upcoming SOS game in mind.
 The test folder contains JUnit testing for two of the methods in the LeastCommonMultiple program. It uses three different tests (assertEquals, assertTrue and assertFalse) to test different scenarios for accuracy.
 The completed report with "key decisions" entered is included.
-A screenshot of the LeastCommonMultiple program running is included.
-A screenshot of the LeastCommonMultiple test program running is included.
+A screenshot of the LCM program running is included.
+A screenshot of the LCM TEST program running is included.
 A screenshot of the GUI program running is included.
